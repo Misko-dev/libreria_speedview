@@ -1,0 +1,2 @@
+include ':app', ':speedview'
+rootProject.name='libreria_speedview'
